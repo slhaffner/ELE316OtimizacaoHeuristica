@@ -1,4 +1,4 @@
-% dados das barras SEM redespacho (geração = demanda)
+% dados das barras SEM redespacho (geraÃ§Ã£o = demanda)
 %    N  Gmin [MW]  Gmax [MW]     D [MW]
      1          0        50         80
      2          0          0        240
@@ -24,3 +24,4 @@
     4    5    0    0.6300        75       63
     4    6    0    0.3000       100       30
     5    6    0    0.6100        78       61
+
